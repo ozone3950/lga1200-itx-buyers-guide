@@ -1,8 +1,22 @@
 # LGA1200 ITX Buyer's Guide
 
-Here is an all-together, easy to read roundup of the relevant LGA1200 ITX boards.
+Here is a detailed roundup of all the relevant ITX LGA1200 boards.
 
-## DISCLAIMER: NOT COMPLETE
+`"Why should I go ITX?"`
+
+ITX is an underrated platform that many people do not know in depth about. Small form factor cases can be very space efficient and transportable, with even no compromises. 
+
+`"What is 'ITX Tax?'" 
+
+'ITX Tax' is a term used regarding the extra cost of going the ITX route. ITX systems do usually cost more, but noawadays it's not bad at all. It can definitely be worth it if you want to go this route.
+
+##### DISCLAIMER: NOT COMPLETE
+
+# Low-Mid Range Boards 
+
+
+
+# High End Boards
 
 ## ASRock Z490 Phantom Gaming ITX
 - 6+3 Phase VRM
