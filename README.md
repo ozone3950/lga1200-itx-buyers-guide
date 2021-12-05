@@ -1,6 +1,6 @@
-# Z490 ITX Roundup
+# LGA1200 ITX Roundup
 
-Here is an all-together, easy to read roundup of the relevant Z490 ITX boards.
+Here is an all-together, easy to read roundup of the relevant LGA1200 ITX boards.
 
 ## DISCLAIMER: NOT COMPLETE
 
