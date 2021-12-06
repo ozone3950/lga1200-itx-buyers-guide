@@ -4,7 +4,7 @@ Here is a detailed roundup of all the relevant ITX LGA1200 boards.
 
 `"Why should I go ITX?"`
 
-ITX is an underrated platform that many people do not know in depth about. Small form factor cases can be very space efficient and transportable, with even no compromises. 
+ITX is an underrated platform that many people do not know in depth about. Small form factor cases can be very space efficient and transportable, even with no compromises. 
 
 `"What is 'ITX Tax?"`
 
@@ -20,16 +20,48 @@ If you are able to find them for a good price new go ahead, but it's much more c
 These boards are for low-mid range CPUs such as the 10105F, 10400F, 10700F ect. They do not have CPU overclocking capabilities, since such CPUs won't either. This means that VRMs won't matter as much. However, they still do have XMP, so you are able to overclock your memory.
 
 ## ASRock B560M-ITX/ac
+- 6 Phase 50A Dr.MOS
+- 4x SATA, 1x M.2 (PCIe Gen4)
+- 5x USB 3.2 Gen1 (2x Rear, 2x Front, 1x Front Type-C)
+- 4x USB 2.0 (2x Rear, 2x Front) 
+- Intel Gigabit LAN
+- Intel 802.11ac WiFi + Bluetooth 4.2
+- Realtek ALC897
 
 
 ## ASRock H570M-ITX/ac
+- 8 Phase 50A Dr.MOS
+- 4x SATA, 2x M.2 (1x PCIe Gen4, 1x PCIe Gen3)
+- 1x USB 3.2 Gen2x2 (Rear Type-C)
+- 2x USB 3.2 Gen2 (Rear) 
+- 3x USB 3.2 Gen1 (2x Front, 1x Front Type-C)
+- 5x USB 2.0 (3x Rear, 2x Front) 
+- Dragon Gigabit LAN, Intel Gigabit LAN
+- Intel 802.11ac WiFi + Bluetooth 4.2
+- Realtek ALC897
 
 
 ## Asus STRIX B560-I GAMING WIFI
+- 6+2 Phase Dr.MOS
+- 4x SATA, 2x M.2 (1x PCIe Gen4, 1x PCIe Gen3)
+- 1x USB 3.2 Gen2x2 (Rear Type-C)
+- 2x USB 3.2 Gen2 (1x Rear, 1x Front Type-C)
+- 2x USB 3.2 Gen1 (Front)
+- 8x USB 2.0 (5x Rear, 1x Rear Audio Type-C, 2x Front)
+- Realtek 2.5 Gigabit LAN
+- Intel AX201 WiFi
+- ROG SupremeFX S1220A
 
 
 ## MSI B560I GAMING EDGE WIFI
-
+- 6 Phase Dr.MOS
+- 4x SATA, 2x M.2 (PCIe Gen4, PCIe Gen3)
+- 2x USB 3.2 Gen2 (1x Rear, 1x Rear Type-C)
+- 2x USB 3.2 Gen1 (1x Front, 1x Front Type-C)
+- 6x USB 2.0 (4 Rear, 2 Front)
+- Realtek 2.5 Gigabit LAN
+- Intel AX210 WiFi
+- Realtek ALC897
 
 
 # High End Boards
@@ -41,11 +73,11 @@ These boards are for higher end, unlocked CPUs such as the 10600K, 10700K, 10900
   - VCore: 6x ISL99390 90A
   - SA/IO: 3x ISL9927 60A
 - 4x SATA, 2x M.2
-- 3x USB 3.2 Gen2 (Rear)
-- 4x USB 3.2 Gen1 (2 Front, 2 Rear)
+- 3x USB 3.2 Gen2
+- 2x USB 3.2 Gen1
 - Thunderbolt 3
-- Intel 802.11ax + Bluetooth 5.1
 - Phantom Gaming 2.5 Gigabit LAN
+- Intel 802.11ax + Bluetooth 5.1
 - Realtek ALC1220
 
 ![z490pgitx](https://user-images.githubusercontent.com/91910634/144762418-31a4361c-d638-41b8-b530-9b884f4063f7.png)
