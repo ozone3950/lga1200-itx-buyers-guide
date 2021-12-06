@@ -11,6 +11,7 @@ ITX is an underrated platform that many people do not know in depth about. Small
 'ITX Tax' is a term used regarding the extra cost of going the ITX route. ITX systems do usually cost more, but noawadays it's not bad at all. It can definitely be worth it if you want to go this route.
 
 `"Where should I buy one of these boards?"`
+
 If you are able to find them for a good price new go ahead, but it's much more common for the prices to be better in the used market.
 
 ##### DISCLAIMER: NOT COMPLETE
@@ -19,7 +20,7 @@ If you are able to find them for a good price new go ahead, but it's much more c
 
 
 # Midrange Boards
-These boards are for low-mid range CPUs such as the 10105F, 10400F, 10700F ect. They do not have CPU overclocking capabilities, since such CPUs won't either. However, they still do have XMP, so you are able to overclock your memory.
+These boards are for low-mid range CPUs such as the 10105F, 10400F, 10700F ect. They do not have CPU overclocking capabilities, since such CPUs won't either. This means that VRMs won't matter as much. However, they still do have XMP, so you are able to overclock your memory.
 
 
 # High End Boards
