@@ -14,7 +14,6 @@ ITX is an underrated platform that many people do not know in depth about. Small
 
 If you are able to find them for a good price new go ahead, but it's much more common for the prices to be better in the used market.
 
-##### DISCLAIMER: NOT COMPLETE
 
 # Low End - Midrange Boards
 These boards are for low-mid range CPUs such as the 10105F, 10400F, 10700F ect. They do not have CPU overclocking capabilities, since such CPUs won't either. This means that VRMs won't matter as much. However, they still do have XMP, so you are able to overclock your memory.
