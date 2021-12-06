@@ -13,10 +13,11 @@ ITX is an underrated platform that many people do not know in depth about. Small
 ##### DISCLAIMER: NOT COMPLETE
 
 # Low-Mid Range Boards 
-
+These boards are for low-mid range CPUs such as the 10105F, 10400F, 10700F ect. They do not have CPU overclocking capabilities, since such CPUs won't either. However, they still do have XMP, so you are able to overclock your memory.
 
 
 # High End Boards
+These boards are for higher end, unlocked CPUs such as the 10600K, 10700K, 10900K ect. The VRMs are suitable for overclocking the CPU, and will be good at memory overclocking aswell.
 
 ## ASRock Z490 Phantom Gaming ITX
 - 6+3 Phase VRM
