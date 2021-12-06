@@ -63,9 +63,16 @@ These boards are for low-mid range CPUs such as the 10105F, 10400F, 10700F ect. 
 - Intel 802.11ax WiFi + Bluetooth 4.2
 - Realtek ALC897
 
+**Verdict**
+
+For a budget 10105F/10400F level system, the ASRock B560M-ITX/AC will be the better choice. It is usually the cheapest board with XMP on 10th Generation CPUs, and has good enough VRMs to properly handle them.
+
+For systems using a CPU like a 10700F or similar, the H570M-ITX/ac will probably be the best choice, since it has more USB ports, M.2 slots
+
 
 # High End Boards
-These boards are for higher end, unlocked CPUs such as the 10600K, 10700K, 10900K ect. The VRMs are suitable for overclocking the CPU, and will be good at memory overclocking aswell.
+These boards are for higher end, unlocked CPUs such as the 10600K, 10700K, 10900K ect. The VRMs will matter more, therefore have been much more detailed in analysis. These boards are great for CPU and memory overclocking, with some features to assist with those tasks.
+
 
 ## ASRock Z490 Phantom Gaming ITX
 - 6+3 Phase VRM
