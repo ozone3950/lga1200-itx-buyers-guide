@@ -63,11 +63,13 @@ These boards are for low-mid range CPUs such as the 10105F, 10400F, 10700F ect. 
 - Intel 802.11ax WiFi + Bluetooth 4.2
 - Realtek ALC897 Audio
 
+
 ## Verdict
 
 For a budget entry level system using CPUs such as the 10105F or 10400F, the ASRock B560M-ITX/AC will be the better choice. It is usually the cheapest board with XMP on 10th Generation CPUs, and has good enough VRMs to properly handle them.
 
 For systems using a CPU like a 10700F or similar, the H570M-ITX/ac will probably be the best choice, since it has more USB ports, M.2 slots and dual LAN which means it'll be better for productivity. The VRMs will also be more suited to handle CPUs which will perform better in more productivity focused workloads, aswell as gaming
+
 
 
 # High End Boards
@@ -139,3 +141,9 @@ These boards are for higher end, unlocked CPUs such as the 10600K, 10700K, 10900
 - Clear CMOS Button
 
 ![z490iunify](https://user-images.githubusercontent.com/91910634/144762620-9f4d729f-1a8d-481c-9d66-f457e9728d45.png)
+
+
+## Verdict 
+
+This is a very close competition, but the winner is the MSI Z490I UNIFY. It has the best VRMs out of the boards being able to easily handle a 10900K, great RAM topology for memory overclocking, and even a clear CMOS button to make the overclocking process more efficient. Though the Gigabyte Z490I AORUS ULTRA is a close contender due to its insane rear IO, and VRMs nearly as good as the UNIFY.
+ 
