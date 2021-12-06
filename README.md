@@ -10,7 +10,7 @@ ITX is an underrated platform that many people do not know in depth about. Small
 
 'ITX Tax' is a term used regarding the extra cost of going the ITX route. ITX systems do usually cost more, but noawadays it's not bad at all. It can definitely be worth it if you want to go this route.
 
-'"Where should I buy one of these boards?"`
+`"Where should I buy one of these boards?"`
 If you are able to find them for a good price new go ahead, but it's much more common for the prices to be better in the used market.
 
 ##### DISCLAIMER: NOT COMPLETE
