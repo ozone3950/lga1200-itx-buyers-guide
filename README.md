@@ -153,3 +153,11 @@ These boards are for higher end, unlocked CPUs such as the 10600K, 10700K, 10900
 ## Verdict 
 
 This is a very close competition, but the winner is the MSI Z490I UNIFY. It has the best VRMs out of the boards being able to easily handle a 10900K, great RAM topology for memory overclocking, and even a clear CMOS button to make the overclocking process more efficient. Though the Gigabyte Z490I AORUS ULTRA is a close contender due to its insane rear IO, and VRMs nearly as good as the UNIFY.
+
+
+
+# Credits/Sources
+
+VRM Details: [Low End - Midrange](https://docs.google.com/spreadsheets/d/1yPS3hj_K7EPT4RBWCyjdKNP56pnwDz-IgBc0975-FUg/htmlview#), [High End](https://youtu.be/TmgR9qNGKlk)
+
+I got the rest of the details about the boards from the manafactuers' sites.
