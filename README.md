@@ -161,3 +161,5 @@ This is a very close competition, but the winner is the MSI Z490I UNIFY. It has 
 VRM Details: [Low End - Midrange](https://docs.google.com/spreadsheets/d/1yPS3hj_K7EPT4RBWCyjdKNP56pnwDz-IgBc0975-FUg/htmlview#), [High End](https://youtu.be/TmgR9qNGKlk)
 
 I got the rest of the details about the boards from the manafactuers' sites.
+
+Join my [Discord](https://discord.gg/u6QV6s6) for any further questions. 
