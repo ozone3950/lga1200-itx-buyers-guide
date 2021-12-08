@@ -111,7 +111,7 @@ These boards are for higher end, unlocked CPUs such as the 10600K, 10700K, 10900
 - Realtek ALC1220 Audio
 - Clear CMOS Button
 
-
+Insane VRM cooling and the only ITX Z490 board to have a SODIMM board for drives and USB headers. Note that some AIOs will not fit this board, such as the NZXT Kraken series. 
 
 ![z490pgitx](https://user-images.githubusercontent.com/91910634/144762418-31a4361c-d638-41b8-b530-9b884f4063f7.png)
 
