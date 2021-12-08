@@ -146,6 +146,7 @@ These boards are for higher end, unlocked CPUs such as the 10600K, 10700K, 10900
 - Realtek 8125B 2.5 Gigabit LAN
 - Realtek ALC1220 Audio
 - Clear CMOS Button
+- Debug LEDs
 
 ![z490iunify](https://user-images.githubusercontent.com/91910634/144762620-9f4d729f-1a8d-481c-9d66-f457e9728d45.png)
 
