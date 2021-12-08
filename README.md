@@ -32,6 +32,7 @@ These boards are for low-mid range CPUs such as the 10105F, 10400F, 10700F ect. 
 The cheapest board out of the good options. It's able to handle lower end CPUs, but make sure to note that it has a 1.45v VDIMM limit and 1 less M.2 slot than the other boards.
 
 ![b560mitxac](https://user-images.githubusercontent.com/91910634/144919328-364bf8f5-5a55-4f9a-afdd-8a34d1484f08.png)
+![b560mitxac_IO](https://user-images.githubusercontent.com/91910634/145267963-cded5093-b8d6-438e-acfe-751996cfa44a.png)
 
 
 ## ASRock H570M-ITX/ac
@@ -49,6 +50,7 @@ The cheapest board out of the good options. It's able to handle lower end CPUs, 
 Great value for a better board compared to it's B560 counterpart. VRMs will be good enough to handle 10700Fs or similar, also has good connectivity for the productivity route.
 
 ![h570mitxac](https://user-images.githubusercontent.com/91910634/144919466-b9148c1e-5283-4bbf-a0f5-69dfbd73693e.png)
+![h570mitxac_IO](https://user-images.githubusercontent.com/91910634/145268314-86d86db4-9c58-4b67-83de-272c4c27adb5.png)
 
 
 ## Asus STRIX B560-I GAMING WIFI
@@ -66,6 +68,7 @@ Great value for a better board compared to it's B560 counterpart. VRMs will be g
 VRMs good enough to handle more powerful CPUs. More aesthetically pleasing with RGB features and has better built-in audio. Not the best when it comes to value though.
 
 ![b560istrix](https://user-images.githubusercontent.com/91910634/144919854-266c54f9-1654-42f5-982a-a701b164d1d7.png)
+![b560istrix_IO](https://user-images.githubusercontent.com/91910634/145269227-641ee6d2-027d-4551-a2f1-91960cdb5f66.png)
 
 
 ## MSI B560I GAMING EDGE WIFI
@@ -82,6 +85,7 @@ VRMs good enough to handle more powerful CPUs. More aesthetically pleasing with 
 Sleek looks, and one of the better boards for memory overclocking, but will depend mostly on how good your IMC is. 
 
 ![b560igamingedge](https://user-images.githubusercontent.com/91910634/144920178-4ee55604-92f3-4a36-a9f5-ecf9aa074c72.png)
+![b560igamingedge_IO](https://user-images.githubusercontent.com/91910634/145273145-c0dace27-bcf9-4e0e-b68c-cfe56024f961.png)
 
 
 ## Verdict
@@ -114,6 +118,7 @@ These boards are for higher end, unlocked CPUs such as the 10600K, 10700K, 10900
 Insane VRM cooling and the only ITX Z490 board to have a SODIMM board for drives and USB headers. Note that some AIOs will not fit this board, such as the NZXT Kraken series. 
 
 ![z490pgitx](https://user-images.githubusercontent.com/91910634/144762418-31a4361c-d638-41b8-b530-9b884f4063f7.png)
+![z490pgitx_IO](https://user-images.githubusercontent.com/91910634/145273306-070f9be9-bfb4-4c86-9cb4-0e4bfb180e31.png)
 
 
 ## Asus ROG STRIX Z490-I GAMING
@@ -136,6 +141,8 @@ Great VRMs with active cooling. Interesting, but working solution for the M.2 th
 
 ![z490istrix](https://user-images.githubusercontent.com/91910634/144762559-ec80bafa-2a49-41dd-a17d-c50b68ed3d7b.png)
 
+![z490istrix_IO](https://user-images.githubusercontent.com/91910634/145273776-49e18189-cd4a-4c2a-91cf-39c1b62ddd17.png)
+
 
 ## Gigabyte Z490I AORUS ULTRA
 - 8+1 Phase VRM
@@ -155,6 +162,30 @@ Great VRMs with active cooling. Interesting, but working solution for the M.2 th
 This board has an insane rear IO for an ITX board, also being very close in VRMs to the Z490I UNIFY. The Q-Flash Plus button could definitley come in use for flashing the BIOS without a CPU. This board is for sure a good idea if you are in need of a large IO in a small system. 
 
 ![z490iaorus](https://user-images.githubusercontent.com/91910634/144762585-88904b39-c605-4071-b0cf-c7b9d6c8bc61.png)
+![z490iaorus_IO](https://user-images.githubusercontent.com/91910634/145274034-eca5d3bf-19ec-48dd-a99f-a922dee91c12.png)
+
+
+## Gigabyte Z590I VISION D
+- 8+2 Phase VRM
+  - Controller: ISL69269
+  - VCore: ISL99390 90A
+  - SA/IO: ISL99390 90A + ISL99360 60A
+- 4x SATA, 2x M.2 (1x PCIe Gen4, 1x PCIe Gen3)
+- 2x USB-C Thunderbolt 4
+- 2x USB 3.2 Gen2 (Rear)
+- 7x USB 3.2 Gen1 (4x Rear, 2x Front, 1x Front Type-C)
+- 2x USB 2.0 (Front)
+- Intel 2.5 Gigabit LAN
+- Intel AX200 WiFi
+- Realtek ALC4080 Audio
+- Q-Flash Plus Button
+
+![z490ivisiond](https://user-images.githubusercontent.com/91910634/145274123-ac5486f4-488f-4e4f-b85a-5eafde4ae1ab.png)
+![z490ivisiond_IO](https://user-images.githubusercontent.com/91910634/145274260-8cad551c-7126-40ed-9f76-5bbd11816b94.png)
+
+
+##### Notes:
+Quite different from the other higher end boards on this list. Support for PCIe Gen4, 2x Thunderbolt 4 ports, large rear IO, and a better audio codec will make it better for producitivy, while having pretty much the same VRMs as the Z490i UNIFY. Though it usually is quite more expensive, and the BIOS is stuck in light theme.
 
 
 ## MSI Z490I UNIFY
@@ -174,21 +205,22 @@ This board has an insane rear IO for an ITX board, also being very close in VRMs
 - Debug LEDs
 
 ##### Notes:
-With the best VRMs and memory overclocking capabilities out of the rest of the boards, this board packs a punch. Thunderbolt 3 and the rest of the decent connevtivity features will help in tasks such as productivity, and the debug LEDs and clear CMOS button on the rear IO will definitely help with overclocking.
+With the best VRMs and memory overclocking capabilities out of the rest of the boards, this board packs a punch. Thunderbolt 3 and the rest of the decent connevtivity features will help in tasks such as productivity, and the debug LEDs and clear CMOS button on the rear IO will definitely help with overclocking. Thunderbolt 3 is a nice feature aswell.
 
 ![z490iunify](https://user-images.githubusercontent.com/91910634/144762620-9f4d729f-1a8d-481c-9d66-f457e9728d45.png)
+![z490iunify_IO](https://user-images.githubusercontent.com/91910634/145274392-72a13dcd-d8d2-48ce-97e1-c99e369655b9.png)
 
 
 ## Verdict 
 
-This is a very close competition, but the winner is the MSI Z490I UNIFY. It has the best VRMs out of the boards being able to easily handle a 10900K, great RAM topology for memory overclocking, and even debug leds and a clear CMOS button to make the overclocking process more efficient. Though the Gigabyte Z490I AORUS ULTRA is a close contender due to its insane rear IO, and VRMs nearly as good as the UNIFY.
+This is a very close competition, but the winner is the MSI Z490I UNIFY and the Gigabyte Z590I VISION D depending on if you want to take the producitivy route. It has the best VRMs out of the boards being able to easily handle a 10900K, great RAM topology for memory overclocking, and even debug leds and a clear CMOS button to make the overclocking process more efficient. Though the Gigabyte Z490I AORUS ULTRA is a close contender due to its insane rear IO, and VRMs nearly as good as the UNIFY.
 
 
 
 # Credits/Sources
 
-VRM Details: [Low End - Midrange](https://docs.google.com/spreadsheets/d/1yPS3hj_K7EPT4RBWCyjdKNP56pnwDz-IgBc0975-FUg/htmlview#), [High End](https://youtu.be/TmgR9qNGKlk)
+[LGA1200 VRM List](https://docs.google.com/spreadsheets/d/1yPS3hj_K7EPT4RBWCyjdKNP56pnwDz-IgBc0975-FUg/htmlview#)
 
 I got the rest of the details about the boards from the manafactuers' sites.
 
-If you have any more questions, ask them on my [Discord](https://discord.gg/u6QV6s6)
+If you have any more questions, ask them on my [Discord](https://discord.gg/u6QV6s6).
