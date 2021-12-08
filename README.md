@@ -24,7 +24,7 @@ These boards are for low-mid range CPUs such as the 10105F, 10400F, 10700F ect. 
 - 5x USB 3.2 Gen1 (2x Rear, 2x Front, 1x Front Type-C)
 - 4x USB 2.0 (2x Rear, 2x Front) 
 - Intel Gigabit LAN
-- Intel 802.11ac WiFi + Bluetooth 4.2
+- Intel 802.11ac WiFi
 - Realtek ALC897 Audio
 
 ![b560mitxac](https://user-images.githubusercontent.com/91910634/144919328-364bf8f5-5a55-4f9a-afdd-8a34d1484f08.png)
@@ -38,7 +38,7 @@ These boards are for low-mid range CPUs such as the 10105F, 10400F, 10700F ect. 
 - 3x USB 3.2 Gen1 (2x Front, 1x Front Type-C)
 - 5x USB 2.0 (3x Rear, 2x Front) 
 - Dragon Gigabit LAN, Intel Gigabit LAN
-- Intel 802.11ac WiFi + Bluetooth 4.2
+- Intel 802.11ac WiFi
 - Realtek ALC897 Audio
 
 ![h570mitxac](https://user-images.githubusercontent.com/91910634/144919466-b9148c1e-5283-4bbf-a0f5-69dfbd73693e.png)
@@ -52,7 +52,7 @@ These boards are for low-mid range CPUs such as the 10105F, 10400F, 10700F ect. 
 - 2x USB 3.2 Gen1 (Front)
 - 8x USB 2.0 (5x Rear, 1x Rear Audio Type-C, 2x Front)
 - Realtek 2.5 Gigabit LAN
-- Intel 802.11ax WiFi + Bluetooth 4.2
+- Intel 802.11ax WiFi
 - ROG SupremeFX S1220A Audio
 
 ![b560istrix](https://user-images.githubusercontent.com/91910634/144919854-266c54f9-1654-42f5-982a-a701b164d1d7.png)
@@ -65,7 +65,7 @@ These boards are for low-mid range CPUs such as the 10105F, 10400F, 10700F ect. 
 - 2x USB 3.2 Gen1 (1x Front, 1x Front Type-C)
 - 6x USB 2.0 (4 Rear, 2 Front)
 - Realtek 2.5 Gigabit LAN
-- Intel 802.11ax WiFi + Bluetooth 4.2
+- Intel 802.11ax WiFi
 - Realtek ALC897 Audio
 
 ![b560igamingedge](https://user-images.githubusercontent.com/91910634/144920178-4ee55604-92f3-4a36-a9f5-ecf9aa074c72.png)
@@ -94,7 +94,7 @@ These boards are for higher end, unlocked CPUs such as the 10600K, 10700K, 10900
 - 4x USB 3.2 Gen1 (2x Rear, 2x Front) 
 - 2x USB 2.0 (Front) 
 - Phantom Gaming 2.5 Gigabit LAN
-- Intel 802.11ax WiFi + Bluetooth 5.1
+- Intel 802.11ax WiFi
 - Realtek ALC1220 Audio
 - Clear CMOS Button
 
@@ -111,6 +111,8 @@ These boards are for higher end, unlocked CPUs such as the 10600K, 10700K, 10900
 - 3x USB 3.2 Gen1 (2x Rear, 1x Front)
 - 3x USB 2.0 (2x Rear, 1x Front)
 - ROG SupremeFX S1220A Audio
+- Intel I225-V 2.5 Gigabit LAN
+- Intel AX201 WiFi
 - BIOS Flashback Button
 
 ![z490istrix](https://user-images.githubusercontent.com/91910634/144762559-ec80bafa-2a49-41dd-a17d-c50b68ed3d7b.png)
@@ -126,7 +128,7 @@ These boards are for higher end, unlocked CPUs such as the 10600K, 10700K, 10900
 - 7x USB 3.2 Gen1 (5x Rear, 2x Front, 1x Front Type-C)
 - 6x USB 2.0 (2x Rear, 4x Front)
 - Intel 2.5 Gigabit LAN
-- Intel 802.11ax WiFi
+- Intel AX201 WiFi
 - Realtek ALC1220-VB Audio
 - Q-Flash Plus Button
 
@@ -144,6 +146,7 @@ These boards are for higher end, unlocked CPUs such as the 10600K, 10700K, 10900
 - 4x USB 3.2 Gen1 (2x Rear, 2x Front)
 - 4x USB 2.0 (2x Rear, 2x Front)
 - Realtek 8125B 2.5 Gigabit LAN
+- Intel AX201 WiFi
 - Realtek ALC1220 Audio
 - Clear CMOS Button
 - Debug LEDs
