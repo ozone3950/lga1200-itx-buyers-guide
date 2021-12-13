@@ -168,8 +168,8 @@ This board has an insane rear IO for an ITX board, also being very close in VRMs
 ## Gigabyte Z590I VISION D
 - 8+2 Phase VRM
   - Controller: ISL69269
-  - VCore: ISL99390 90A
-  - SA/IO: ISL99390 90A + ISL99360 60A
+  - VCore: 8x ISL99390 90A
+  - SA/IO: 1x ISL99390 90A + 1x ISL99360 60A
 - 4x SATA, 2x M.2 (1x PCIe Gen4, 1x PCIe Gen3)
 - 2x USB-C Thunderbolt 4
 - 2x USB 3.2 Gen2 (Rear)
